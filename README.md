@@ -1,2 +1,4 @@
-# cm-14.1-e7
-device tree for samsung e7
+Device tree for Samsung E7
+=================================
+
+This branch is for building CyanogenMod Firmware.
